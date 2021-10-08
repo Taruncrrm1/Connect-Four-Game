@@ -1,2 +1,2 @@
-*.java linguist-detectable=true
-*.jfx linguist-detectable=true
+# Auto detect text files and perform LF normalization
+* text=auto
